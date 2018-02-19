@@ -1,1 +1,0 @@
-# Bando Studenti/Solver
